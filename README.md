@@ -12,3 +12,10 @@ PRJNA324093, Ellebedy et al., Nat Immunol, 2016
 
 # Flu vaccination study 
 PRJNA512111, Horns et al., PNAS, 2019
+
+| Dataset | Run accession numbers                         | Link to IgEvolution results                                                                                          |
+|---------|-----------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| Donor1  | SRR8377659 (PBMC taken after flu vaccination) | [Start browsing...](docs/html_flu2_dnr1_files/html_files/multiplicity_html/lineage65579_vertices1790_edges2547.html) |
+| Donor3  | SRR8377660 (PBMC taken after flu vaccination) | [Start browsing...](docs/html_flu2_dnr3_files/html_files/multiplicity_html/lineage99188_vertices613_edges719.html)   |
+| Donor4  | SRR8377663 (PBMC taken after flu vaccination) | [Start browsing...](docs/html_flu2_dnr4_files/html_files/multiplicity_html/lineage51164_vertices251_edges336.html)   |
+| Donor5  | SRR8377656 (PBMC taken after flu vaccination) | [Start browsing...](docs/html_flu2_dnr5_files/html_files/multiplicity_html/lineage18488_vertices147_edges199.html)   |
