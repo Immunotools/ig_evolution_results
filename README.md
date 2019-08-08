@@ -13,7 +13,7 @@
             SRR3620102 (HA-positive activated B cells, 14th day)<br>
             SRR3620028 (HA-positive memory B cells, 28th day)
         </th>
-        <th><a href = docs/docs/html_flu1_dnr4_files/docs/html_files/multiplicity_html/lineage2149_vertices266_edges327.html>Start browsing...</a></th>
+        <th><a href=docs/html_flu1_dnr4_files/docs/html_files/multiplicity_html/lineage2149_vertices266_edges327.html>Start browsing...</a></th>
     </tr>
     <tr>
         <th>Donor 5</th>
@@ -23,7 +23,7 @@
             SRR3620042 (HA-positive activated B cells, 14th day)<br>
             SRR3620046 (HA-positive memory B cells, 28th day)
         </th>
-        <th><a href = docs/docs/html_flu1_dnr5_files/docs/html_files/multiplicity_html/lineage845_vertices425_edges599.html>Start browsing...</a></th>
+        <th><a href=docs/html_flu1_dnr5_files/docs/html_files/multiplicity_html/lineage845_vertices425_edges599.html>Start browsing...</a></th>
     </tr>
     <tr>
         <th>Donor 6</th>
@@ -33,7 +33,7 @@
             SRR3620061 (HA-positive activated B cells, 14th day)<br>
             SRR3620065 (HA-positive memory B cells, 28th day)
         </th>
-        <th><a href = docs/docs/html_flu1_dnr6_files/docs/html_files/multiplicity_html/lineage1237_vertices2127_edges2746.html>Start browsing...</a></th>
+        <th><a href=docs/html_flu1_dnr6_files/docs/html_files/multiplicity_html/lineage1237_vertices2127_edges2746.html>Start browsing...</a></th>
     </tr>
     <tr>
         <th>Donor 8</th>
@@ -43,7 +43,7 @@
             SRR3620079 (HA-positive activated B cells, 14th day)<br>
             SRR3620084 (HA-positive memory B cells, 28th day)
         </th>
-        <th><a href = docs/docs/html_flu1_dnr8_files/docs/html_files/multiplicity_html/lineage1867_vertices1828_edges3206.html>Start browsing...</a></th>
+        <th><a href=docs/docs/html_flu1_dnr8_files/docs/html_files/multiplicity_html/lineage1867_vertices1828_edges3206.html>Start browsing...</a></th>
     </tr>
 </table>
 
