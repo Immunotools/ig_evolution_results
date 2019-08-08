@@ -1,6 +1,7 @@
-Clonal analysis of publicly available antibody repertoires performed using IgEvolution tool
+# Clonal analysis of publicly available antibody repertoires performed using IgEvolution tool
 
-# Flu vaccination study, PRJNA324093, Ellebedy et al., Nat Immunol, 2016
+# Flu vaccination study 
+PRJNA324093, Ellebedy et al., Nat Immunol, 2016
 
 | Dataset | Run accession numbers                                                                                                                                                                             | Link to IgEvolution results                                                                                         |
 |---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
@@ -9,4 +10,5 @@ Clonal analysis of publicly available antibody repertoires performed using IgEvo
 | Donor6  | SRR3620055 (HA-positive ASCs, 7th day) SRR3620057 (HA-positive activated B cells, 7th day) SRR3620061 (HA-positive activated B cells, 14th day) SRR3620065 (HA-positive memory B cells, 28th day) | [Start browsing...](docs/html_flu1_dnr6_files/html_files/multiplicity_html/lineage1237_vertices2127_edges2746.html) |
 | Donor8  | SRR3620074 (HA-positive ASCs, 7th day) SRR3620076 (HA-positive activated B cells, 7th day) SRR3620079 (HA-positive activated B cells, 14th day) SRR3620084 (HA-positive memory B cells, 28th day) | [Start browsing...](docs/html_flu1_dnr8_files/html_files/multiplicity_html/lineage1867_vertices1828_edges3206.html) |
 
-# Flu vaccination study, PRJNA512111, Horns et al., PNAS, 2019
+# Flu vaccination study 
+PRJNA512111, Horns et al., PNAS, 2019
