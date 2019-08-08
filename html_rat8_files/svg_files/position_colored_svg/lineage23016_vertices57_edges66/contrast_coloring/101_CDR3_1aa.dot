@@ -1,0 +1,115 @@
+digraph{
+0 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+1 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+2 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+3 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+4 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+5 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+6 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+7 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+8 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+9 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+10 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+11 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+12 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+13 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+14 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+15 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+16 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+17 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+18 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+19 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+20 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+21 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+22 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+23 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+24 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+25 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+26 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+27 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+28 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+29 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+30 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+31 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+32 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+33 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+34 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+35 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+36 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+37 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+38 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+39 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+40 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+41 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+42 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+43 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+44 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+45 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+46 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+47 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+48 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+49 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+50 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+51 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+52 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+53 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+54 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+55 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+56 [tooltip = "H", penwidth = 0, style = filled, fillcolor = "#00c0ff", shape = circle, label = ""]
+16 -> 6
+21 -> 47
+3 -> 0
+55 -> 54
+13 -> 37
+21 -> 31
+21 -> 49
+14 -> 22
+7 -> 20
+10 -> 8
+11 -> 10
+6 -> 7
+22 -> 45
+50 -> 48
+4 -> 13
+11 -> 55
+41 -> 43
+3 -> 51
+32 -> 46
+13 -> 18
+37 -> 23
+56 -> 53
+52 -> 50
+12 -> 34
+3 -> 2
+12 -> 52
+21 -> 26
+54 -> 56
+46 -> 5
+42 -> 40
+45 -> 25
+11 -> 9
+29 -> 21
+30 -> 29
+17 -> 1
+31 -> 24
+18 -> 17
+13 -> 19
+5 -> 4
+44 -> 28
+34 -> 27
+36 -> 32
+47 -> 44
+28 -> 36
+1 -> 12
+19 -> 16
+40 -> 11
+11 -> 3
+38 -> 35
+13 -> 14
+28 -> 33
+33 -> 42
+22 -> 39
+20 -> 15
+39 -> 41
+43 -> 38
+}
