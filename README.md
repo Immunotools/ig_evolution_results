@@ -1,8 +1,8 @@
 <h3 align = center>Flu vaccination study, PRJNA324093, Ellebedy et al., <i>Nat Immunol</i>, 2016</h3>
 <table style="width:100%">
     <tr>
-        <th width = 20%>Dataset</th>
-        <th width = 50%>Run accession numbers</th>
+        <th width = 10%>Dataset</th>
+        <th width = 60%>Run accession numbers</th>
         <th width = 30%>Link to IgEvolution results</th>
     </tr>
     <tr>
