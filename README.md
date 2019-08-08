@@ -1,7 +1,7 @@
 # Clonal analysis of publicly available antibody repertoires performed using IgEvolution tool
 
 # Flu vaccination study - I
-PRJNA324093, Ellebedy et al., Nat Immunol, 2016
+PRJNA324093, Ellebedy et al., <i>Nat Immunol</i>, 2016
 
 | Dataset | Run accession numbers                                                                                                                                                                             | Link to IgEvolution results                                                                                         |
 |---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
@@ -11,7 +11,7 @@ PRJNA324093, Ellebedy et al., Nat Immunol, 2016
 | Donor8  | SRR3620074 (HA-positive ASCs, 7th day)<br> SRR3620076 (HA-positive activated B cells, 7th day)<br> SRR3620079 (HA-positive activated B cells, 14th day)<br> SRR3620084 (HA-positive memory B cells, 28th day) | [Start browsing...](https://immunotools.github.io/ig_evolution_results/docs/html_flu1_dnr8_files/html_files/multiplicity_html/lineage1867_vertices1828_edges3206.html) |
 
 # Flu vaccination study - II
-PRJNA512111, Horns et al., PNAS, 2019
+PRJNA512111, Horns et al., <i>PNAS</i>, 2019
 
 | Dataset | Run accession numbers                         | Link to IgEvolution results                                                                                          |
 |---------|-----------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
@@ -19,3 +19,13 @@ PRJNA512111, Horns et al., PNAS, 2019
 | Donor3  | SRR8377660 (PBMC taken after flu vaccination) | [Start browsing...](https://immunotools.github.io/ig_evolution_results/docs/html_flu2_dnr3_files/html_files/multiplicity_html/lineage99188_vertices613_edges719.html)   |
 | Donor4  | SRR8377663 (PBMC taken after flu vaccination) | [Start browsing...](https://immunotools.github.io/ig_evolution_results/docs/html_flu2_dnr4_files/html_files/multiplicity_html/lineage51164_vertices251_edges336.html)   |
 | Donor5  | SRR8377656 (PBMC taken after flu vaccination) | [Start browsing...](https://immunotools.github.io/ig_evolution_results/docs/html_flu2_dnr5_files/html_files/multiplicity_html/lineage18488_vertices147_edges199.html)   |
+
+# Study of intestinal antibody repertoires, 
+PRJNA355402, Magri et al., <i>Immunity</i>, 2017
+
+| Dataset | Run accession numbers                                                                                                                                                                                                                                                                                                                                                                   | Link to IgEvolution results                                                                                                                                                 |
+|---------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Donor1  | SRR5063099 (memory B cells, IgA, ileum mucosa)<br> SRR5063100 (plasma B cells, IgA, colon mucosa)<br> SRR5063104 (memory B cells, IgA, colon mucosa)<br> SRR5063107 (plasma B cells, IgA, ileum mucosa)<br> SRR5063089 (plasma B cells, IgM, ileum mucosa)<br> SRR5063090 (plasma B cells, IgM, colon mucosa)<br> SRR5063105 (memory B cells, IgM, ileum mucosa)<br> SRR5063114 (memory B cells, IgM, colon mucosa) | [Start browsing...](https://immunotools.github.io/ig_evolution_results/docs/html_intestinal_dnr1_files/html_files/multiplicity_html/lineage29342_vertices131_edges151.html) |
+| Donor2  | SRR5063082 (plasma B cells, IgA, ileum mucosa)<br> SRR5063083 (plasma B cells, IgA, colon mucosa)<br> SRR5063093 (memory B cells, IgA, colon mucosa)<br> SRR5063115 (memory B cells, IgA, ileum mucosa)<br> SRR5063095 (plasma B cells, IgM, ileum mucosa)<br> SRR5063098 (memory B cells, IgM, colon mucosa)<br> SRR5063111 (memory B cells, IgM, ileum mucosa)<br> SRR5063113 (plasma B cells, IgM, colon mucosa) | [Start browsing...](https://immunotools.github.io/ig_evolution_results/docs/html_intestinal_dnr2_files/html_files/multiplicity_html/lineage41319_vertices220_edges306.html) |
+| Donor3  | SRR5063086 (memory B cells, IgA, colon mucosa)<br> SRR5063096 (memory B cells, IgA, ileum mucosa)<br> SRR5063101 (plasma B cells, IgA, colon mucosa)<br> SRR5063106 (plasma B cells, IgA, ileum mucosa)<br> SRR5063087 (plasma B cells, IgM, colon mucosa)<br> SRR5063094 (memory B cells, IgM, colon mucosa)<br> SRR5063102 (memory B cells, IgM, ileum mucosa)<br> SRR5063103 (plasma B cells, IgM, ileum mucosa) | [Start browsing...](https://immunotools.github.io/ig_evolution_results/docs/html_intestinal_dnr3_files/html_files/multiplicity_html/lineage84947_vertices215_edges315.html) |
+| Donor4  | SRR5063088 (plasma B cells, IgA, colon mucosa)<br> SRR5063091 (plasma B cells, IgA, ileum mucosa)<br> SRR5063109 (memory B cells, IgA, ileum mucosa)<br> SRR5063116 (memory B cells, IgA, colon mucosa)<br> SRR5063085 (memory B cells, IgM, colon mucosa)<br> SRR5063108 (plasma B cells, IgM, colon mucosa)<br> SRR5063110 (plasma B cells, IgM, ileum mucosa)<br> SRR5063112 (memory B cells, IgM, ileum mucosa) | [Start browsing...](https://immunotools.github.io/ig_evolution_results/docs/html_intestinal_dnr4_files/html_files/multiplicity_html/lineage23007_vertices82_edges109.html)  |
